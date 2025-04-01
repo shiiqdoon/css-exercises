@@ -1,5 +1,8 @@
 .odd {
     background-color: hsl(360, 60%, 100%);
-    font-family: Verdana, dejaVu Sans, sans-serif ;
-    
+    font-family: Verdana, dejaVu Sans, sans-serif ;  
+}
+#secel {
+    color: rgb(0, 0, 255);
+    font-size: 36px;
 }
